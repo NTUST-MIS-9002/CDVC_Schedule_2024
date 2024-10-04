@@ -1,2 +1,5 @@
 # CDVC_Schedule_2024
-Record all the club’s itineraries in 2024
+
+### Recent Activities
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
