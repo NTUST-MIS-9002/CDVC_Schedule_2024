@@ -12,8 +12,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Update GitHub Activity
-        uses: TheDanniCraft/activity-log@v1
+      - name: Update activity log
+        uses: EvanLo62/activity-log@v1
         with:
           GITHUB_USERNAME: "EvanLo62"
           GITHUB_TOKEN: ${{ secrets.ACTIONSECRET202410 }} # Ensure this matches the secret name in repository settings
