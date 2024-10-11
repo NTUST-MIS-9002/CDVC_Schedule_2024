@@ -10,9 +10,12 @@ on:
 jobs:
   update-activity:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        shell: bash
     steps:
       - uses: actions/checkout@v4
-      - name: Update GitHub Activity
+      - name: Update activity log
         uses: EvanLo62/activity-log@t1
         with:
           GITHUB_USERNAME: "EvanLo62"
