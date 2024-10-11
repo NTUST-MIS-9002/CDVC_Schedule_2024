@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Update activity log
+      - name: Update GitHub Activity
         uses: EvanLo62/activity-log@t1
         with:
           GITHUB_USERNAME: "EvanLo62"
