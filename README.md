@@ -2,14 +2,14 @@
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🆕 Opened an issue [#8](https://github.com/NTUST-MIS-9002/CDVC_Schedule_2024/issues/8) in [NTUST-MIS-9002/CDVC_Schedule_2024](https://github.com/NTUST-MIS-9002/CDVC_Schedule_2024)
-2. 📝 Committed to [NTUST-MIS-9002/CDVC_Schedule_2024](https://github.com/NTUST-MIS-9002/CDVC_Schedule_2024/commit/378bf60f4758f364013ee8fcd5f2a205a008b8a1)
-3. 🗑️ Deleted a branch `6-as-repo-owner-i-want-github-to-automatically-update-readme-to-include-recent-activities` in a private repo
-4. ❌ Closed an issue in a private repo
-5. 📝 Committed to a private repo
-6. 🔀 Merged a PR in a private repo
-7. 📥 Opened a PR in a private repo
-8. 📝 Committed to a private repo
-9. 📝 Committed to a private repo
-10. ➕ Created a new branch `6-as-repo-owner-i-want-github-to-automatically-update-readme-to-include-recent-activities` in a private repo
+1. ➕ Created a new branch [`9-pipeline`](https://github.com/NTUST-MIS-9002/CDVC_Schedule_2024/tree/9-pipeline) in [NTUST-MIS-9002/CDVC_Schedule_2024](https://github.com/NTUST-MIS-9002/CDVC_Schedule_2024)
+2. 🗣 Commented on issue [#9](https://github.com/NTUST-MIS-9002/CDVC_Schedule_2024/issues/9) in [NTUST-MIS-9002/CDVC_Schedule_2024](https://github.com/NTUST-MIS-9002/CDVC_Schedule_2024): [View Comment](https://github.com/NTUST-MIS-9002/CDVC_Schedule_2024/issues/9#issuecomment-2408948418)
+3. 🔄 Reopened an issue [#9](https://github.com/NTUST-MIS-9002/CDVC_Schedule_2024/issues/9) in [NTUST-MIS-9002/CDVC_Schedule_2024](https://github.com/NTUST-MIS-9002/CDVC_Schedule_2024)
+4. 📝 Committed to [NTUST-MIS-9002/CDVC_Schedule_2024](https://github.com/NTUST-MIS-9002/CDVC_Schedule_2024/commit/3300d4c48fb3a8463c51b03e7e4e5e6c545831ae)
+5. 📝 Committed to [NTUST-MIS-9002/CDVC_Schedule_2024](https://github.com/NTUST-MIS-9002/CDVC_Schedule_2024/commit/0e4ec1c4a6eae53baab70db1293e726e8a0059fb)
+6. ❌ Closed an issue [#9](https://github.com/NTUST-MIS-9002/CDVC_Schedule_2024/issues/9) in [NTUST-MIS-9002/CDVC_Schedule_2024](https://github.com/NTUST-MIS-9002/CDVC_Schedule_2024)
+7. 📝 Committed to [NTUST-MIS-9002/CDVC_Schedule_2024](https://github.com/NTUST-MIS-9002/CDVC_Schedule_2024/commit/6b4dc38d89f3e47e909780914c51c2aa1ad281b5)
+8. 📝 Committed to [NTUST-MIS-9002/CDVC_Schedule_2024](https://github.com/NTUST-MIS-9002/CDVC_Schedule_2024/commit/00adc17f577ba235e942f95372fb72348714de5d)
+9. 📝 Committed to [NTUST-MIS-9002/CDVC_Schedule_2024](https://github.com/NTUST-MIS-9002/CDVC_Schedule_2024/commit/247502d232728a51dd98caded2da8156cf2b006d)
+10. 📝 Committed to [NTUST-MIS-9002/CDVC_Schedule_2024](https://github.com/NTUST-MIS-9002/CDVC_Schedule_2024/commit/b1526b0ef8e352d5829d809fec0fbc1cb1dbf7dd)
 <!--END_SECTION:activity-->
