@@ -1,0 +1,23 @@
+name: Add new issues to Project Board
+
+on:
+  issues:
+    types: [opened, edited]
+
+jobs:
+  add_to_project:
+    runs-on: ubuntu-latest
+    steps:
+    - name: 'Add issue to project'
+      uses: actions/github-script@v4
+      with:
+        script: |
+          const projectId = YOUR_PROJECT_ID; // 替換為你自己的專案 ID
+          const columnId = YOUR_COLUMN_ID;   // 替換為你自己的欄 ID
+          
+          // 將議題添加至專案欄位
+          await github.projects.createCard({
+            column_id: columnId,
+            content_id: context.issue.id,
+            content_type: "Issue"
+          });
