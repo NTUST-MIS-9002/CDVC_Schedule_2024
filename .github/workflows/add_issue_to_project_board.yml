@@ -12,8 +12,8 @@ jobs:
       uses: actions/github-script@v4
       with:
         script: |
-          const projectId = YOUR_PROJECT_ID; // 替換為你自己的專案 ID
-          const columnId = YOUR_COLUMN_ID;   // 替換為你自己的欄 ID
+          const projectId = @EvanLo62's club project; 
+          const columnId = Todo;   
           
           // 將議題添加至專案欄位
           await github.projects.createCard({
